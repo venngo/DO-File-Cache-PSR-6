@@ -1,5 +1,5 @@
 {
-    "name": "divineomega/do-file-cache-psr-6",
+    "name": "venngo/do-file-cache-psr-6",
     "description": "PSR-6 adapter for DO File Cache",
     "type": "library",
     "authors": [
